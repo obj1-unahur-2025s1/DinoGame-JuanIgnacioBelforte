@@ -1,0 +1,9 @@
+import wollok.game.*
+import dino.* 
+
+program DinoGame {
+
+	juego.configurar()
+	game.start()
+
+}
